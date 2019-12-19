@@ -28,5 +28,7 @@ do while loop:
 	{
 		/*set of statements*/                            --> EXIT LEVEL CHECKER (By Default first cycle is executed without varying its condition)
 	}while(condition);
-
+break    : It is used to exit from the given block
+continue : It is Used to continue in the loop
+exit     : It is used to exit from entire program
 
