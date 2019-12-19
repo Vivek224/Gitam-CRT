@@ -30,5 +30,5 @@ do while loop:
 	}while(condition);
 break    : It is used to exit from the given block
 continue : It is Used to continue in the loop
-exit     : It is used to exit from entire program
+exit(0)  : It is used to exit from entire program
 
