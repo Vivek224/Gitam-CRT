@@ -15,7 +15,7 @@ int main()
 	{
 		if(freq[i]!=0)
 		{
-			printf("%c ocuured %d times in the string\n",i,freq[i]);
+			printf("%c occured %d times in the string\n",i,freq[i]);
 		}
 	}
 	return 0;
