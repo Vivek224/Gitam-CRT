@@ -12,7 +12,7 @@ int main()
 	printf("\n\t1.PUSH\n\t2.POP\n\t3.DISPLAY\n\t4.EXIT\n");
 	do
 	{
-		printf("\nEnter Choice :");
+		printf("Enter Choice :");
 		scanf("%d",&choice);
 		switch(choice)
 		{
@@ -67,7 +67,7 @@ void pop()
 	}
 	else
 	{
-		printf("The Popped elemnt is %d",stack[top]);
+		printf("The Popped element is %d",stack[top]);
 		top--;
 	}
 }
