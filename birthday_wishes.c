@@ -103,6 +103,7 @@ char  ch;
  	      printf(" \n ");
  	      sleep(2);
  	      printf(" Keep smiling .... ALWAYS.... ");
+ 	      printf("\nCopywright by Vivek\n");
  	      printf(" \n ");
  	      printf(" \n ");
  	      printf(" \n ");
