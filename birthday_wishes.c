@@ -103,7 +103,6 @@ char  ch;
  	      printf(" \n ");
  	      sleep(2);
  	      printf(" Keep smiling .... ALWAYS.... ");
- 	      printf("\nCopywright by Vivek\n");
  	      printf(" \n ");
  	      printf(" \n ");
  	      printf(" \n ");
@@ -124,6 +123,7 @@ char  ch;
  printf(" \n ");
  printf(" \n ");
  printf(" \n ");
+ printf(" \n copyright c @VIVEK \n" );
  }
  return 0;
 }
