@@ -15,9 +15,9 @@ int main()
 		printf("Enter Book ID :");
 		scanf("%d",&b[i].bid);
 		printf("Enter Book Name :");
-		scanf("%s",&b[i].bname);
+		scanf("%s",b[i].bname);
 		printf("Enter Author Name :");
-		scanf("%s",&b[i].aname);
+		scanf("%s",b[i].aname);
 		printf("Enter Price :");
 		scanf("%f",&b[i].price);
 	}
