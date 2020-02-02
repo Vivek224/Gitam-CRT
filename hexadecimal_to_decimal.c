@@ -13,7 +13,7 @@ int main()
 
     /* Input hexadecimal number from user */
     printf("Enter any hexadecimal number: ");
-    gets(hex);
+    scanf("%s",hex);
 
     /* Find the length of total number of hex digit */
     len = strlen(hex);
