@@ -4,7 +4,7 @@ int main()
 {
 char  ch;
     printf("\033[1;36m");
-    printf("  Hi there **PAVANI** : ) \n ");
+    printf("  Hi there **NITHIN** : ) \n ");
     printf("\033[0m");
     printf(" \n ");
     printf(" Wait be 'patient' :P .... \n");
@@ -89,7 +89,7 @@ char  ch;
  	      printf(" Hope it made you happy  my dear.... \n ");
  	      printf(" \n ");
  	      sleep(2);
- 	      printf(" And I know it's '**pavani**' but i love calling you '**dhed dhana**' .... \n ");
+ 	      printf(" And I know it's '**NITHIN**' but i love calling you '**AGARWAL**' .... \n ");
  	      printf(" \n ");
  	      printf(" \n ");
  	      printf(" \n ");
